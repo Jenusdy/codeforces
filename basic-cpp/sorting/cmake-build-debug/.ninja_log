@@ -1,0 +1,14 @@
+# ninja log v5
+2	288	7339870756874538	build.ninja	3988eaaaec7ebfbf
+0	462	7339870761733031	CMakeFiles/sorting.dir/SelectionSort.cpp.obj	f2a362ea320ab47d
+464	656	7339870763638081	sorting.exe	7b39df431568843b
+4	429	7339874015665266	CMakeFiles/sorting.dir/SelectionSort.cpp.obj	f2a362ea320ab47d
+430	539	7339874016720682	sorting.exe	7b39df431568843b
+3	370	7339874223271199	CMakeFiles/sorting.dir/SelectionSort.cpp.obj	f2a362ea320ab47d
+371	472	7339874224258175	sorting.exe	7b39df431568843b
+3	369	7339877446243099	CMakeFiles/sorting.dir/SelectionSort.cpp.obj	f2a362ea320ab47d
+369	473	7339877447237199	sorting.exe	7b39df431568843b
+3	380	7339877826189286	CMakeFiles/sorting.dir/SelectionSort.cpp.obj	f2a362ea320ab47d
+381	476	7339877827125891	sorting.exe	7b39df431568843b
+3	389	7339878646644826	CMakeFiles/sorting.dir/SelectionSort.cpp.obj	f2a362ea320ab47d
+390	487	7339878647590873	sorting.exe	7b39df431568843b
