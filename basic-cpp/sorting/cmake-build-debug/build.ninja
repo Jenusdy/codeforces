@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/Fawcet$ Jenusdy$ Makay/codeforces/basic-cpp/sort
 
 build cmake_object_order_depends_target_sorting: phony || CMakeFiles/sorting.dir
 
-build CMakeFiles/sorting.dir/SelectionSort.cpp.obj: CXX_COMPILER__sorting_unscanned_Debug C$:/Users/Fawcet$ Jenusdy$ Makay/codeforces/basic-cpp/sorting/SelectionSort.cpp || cmake_object_order_depends_target_sorting
-  DEP_FILE = CMakeFiles\sorting.dir\SelectionSort.cpp.obj.d
+build CMakeFiles/sorting.dir/BubbleSort.cpp.obj: CXX_COMPILER__sorting_unscanned_Debug C$:/Users/Fawcet$ Jenusdy$ Makay/codeforces/basic-cpp/sorting/BubbleSort.cpp || cmake_object_order_depends_target_sorting
+  DEP_FILE = CMakeFiles\sorting.dir\BubbleSort.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\sorting.dir
   OBJECT_FILE_DIR = CMakeFiles\sorting.dir
@@ -63,7 +63,7 @@ build CMakeFiles/sorting.dir/SelectionSort.cpp.obj: CXX_COMPILER__sorting_unscan
 #############################################
 # Link the executable sorting.exe
 
-build sorting.exe: CXX_EXECUTABLE_LINKER__sorting_Debug CMakeFiles/sorting.dir/SelectionSort.cpp.obj
+build sorting.exe: CXX_EXECUTABLE_LINKER__sorting_Debug CMakeFiles/sorting.dir/BubbleSort.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\sorting.dir
