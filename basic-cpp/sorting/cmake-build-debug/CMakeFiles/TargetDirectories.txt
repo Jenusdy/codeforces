@@ -1,3 +1,3 @@
-C:/Users/Fawcet Jenusdy Makay/codeforces/basic-cpp/sorting/cmake-build-debug/CMakeFiles/sorting.dir
-C:/Users/Fawcet Jenusdy Makay/codeforces/basic-cpp/sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Fawcet Jenusdy Makay/codeforces/basic-cpp/sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Fawcet Jenusdy Makay/CodeForces/basic-cpp/sorting/cmake-build-debug/CMakeFiles/sorting.dir
+C:/Users/Fawcet Jenusdy Makay/CodeForces/basic-cpp/sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fawcet Jenusdy Makay/CodeForces/basic-cpp/sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
