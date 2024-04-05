@@ -1,10 +1,11 @@
 # ninja log v5
-1	135	7339883899694952	build.ninja	3988eaaaec7ebfbf
+1	143	7339929859342208	build.ninja	3988eaaaec7ebfbf
 3	389	7339878646644826	CMakeFiles/sorting.dir/SelectionSort.cpp.obj	f2a362ea320ab47d
-390	487	7339878647590873	sorting.exe	7b39df431568843b
+356	451	7339886745333618	sorting.exe	ec55105f283af2c7
 3	365	7339882952172731	CMakeFiles/sorting.dir/BubbleSrot.cpp.obj	91811b29db5c8ee1
-3	355	7339883717271871	CMakeFiles/sorting.dir/BubbleSort.cpp.obj	e5d53723961db82b
-1	143	7339883899694952	build.ninja	3988eaaaec7ebfbf
-2	105	7339883900940326	sorting.exe	ec55105f283af2c7
-3	352	7339886331864841	CMakeFiles/sorting.dir/BubbleSort.cpp.obj	e5d53723961db82b
-352	451	7339886332800872	sorting.exe	ec55105f283af2c7
+3	354	7339886744397261	CMakeFiles/sorting.dir/BubbleSort.cpp.obj	e5d53723961db82b
+1	142	7339929859342208	build.ninja	3988eaaaec7ebfbf
+0	412	7339929863704785	CMakeFiles/sorting.dir/InsertionSort.cpp.obj	a4f06eaba700763d
+413	601	7339929865539852	sorting.exe	cae7bf2bd934f9c3
+3	404	7339934955058204	CMakeFiles/sorting.dir/InsertionSort.cpp.obj	a4f06eaba700763d
+406	511	7339934956083788	sorting.exe	cae7bf2bd934f9c3
